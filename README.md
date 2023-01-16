@@ -46,4 +46,8 @@
         pivot tables
 
 
-    The course is designed for people who have basic knowledge in Python, NumPy and Pandas. It consists of 130 exercises with solutions.  This is a great test for people who are learning the Python language and data science and are looking for new challenges. Exercises are also a good test before the interview. Many popular topics were covered in this course. 
+The course is designed for people who have basic knowledge in Python, NumPy and Pandas. 
+It consists of 130 exercises with solutions.  
+This is a great test for people who are learning the Python language and data science and are looking for new challenges. 
+Exercises are also a good test before the interview. 
+Many popular topics were covered in this course. 
